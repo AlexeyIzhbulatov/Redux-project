@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5911134-14f5-4c8e-81df-ca3629b473ba" name="Default Changelist" comment="" />
+    <list default="true" id="a5911134-14f5-4c8e-81df-ca3629b473ba" name="Default Changelist" comment="Redux" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1mbj8FhHBwd3IeBBVmOgWDyvm4z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,12 +61,38 @@
       <workItem from="1609959458110" duration="594000" />
       <workItem from="1610027282076" duration="97000" />
       <workItem from="1610087893981" duration="5432000" />
-      <workItem from="1610198258226" duration="6485000" />
+      <workItem from="1610198258226" duration="6805000" />
     </task>
+    <task id="LOCAL-00001" summary="Redux">
+      <created>1610205598742</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610205598742</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Redux">
+      <created>1610205715329</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610205715329</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Redux">
+      <created>1610205751878</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610205751878</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Redux" />
+    <option name="LAST_COMMIT_MESSAGE" value="Redux" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
