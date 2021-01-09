@@ -61,7 +61,7 @@
       <workItem from="1609959458110" duration="594000" />
       <workItem from="1610027282076" duration="97000" />
       <workItem from="1610087893981" duration="5432000" />
-      <workItem from="1610198258226" duration="6805000" />
+      <workItem from="1610198258226" duration="7104000" />
     </task>
     <task id="LOCAL-00001" summary="Redux">
       <created>1610205598742</created>
@@ -84,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610205751878</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Redux">
+      <created>1610206090054</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610206090054</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
