@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5911134-14f5-4c8e-81df-ca3629b473ba" name="Default Changelist" comment="Redux" />
+    <list default="true" id="a5911134-14f5-4c8e-81df-ca3629b473ba" name="Default Changelist" comment="Redux">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducer.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +66,9 @@
       <workItem from="1609959458110" duration="594000" />
       <workItem from="1610027282076" duration="97000" />
       <workItem from="1610087893981" duration="5432000" />
-      <workItem from="1610198258226" duration="7104000" />
+      <workItem from="1610198258226" duration="7899000" />
+      <workItem from="1610258305259" duration="730000" />
+      <workItem from="1610347172864" duration="795000" />
     </task>
     <task id="LOCAL-00001" summary="Redux">
       <created>1610205598742</created>
@@ -91,7 +98,35 @@
       <option name="project" value="LOCAL" />
       <updated>1610206090054</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Redux">
+      <created>1610206103472</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610206103472</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Redux">
+      <created>1610206124426</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610206124426</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Redux">
+      <created>1610206170175</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610206170175</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Redux">
+      <created>1610206252995</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610206252995</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

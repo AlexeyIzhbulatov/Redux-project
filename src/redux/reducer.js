@@ -18,7 +18,7 @@ const todo = (state = initialState, action) => {
         case 'TODO_ADD':
             return {
                 ...state,
-                todos: [...state.todos, { title: action.payload, done: false }]
+                todos: [...state.todos, { title: action.payload, done: false, id: Math.random() }]
             };
 
         case 'DELETE_TASK':
@@ -41,4 +41,3 @@ const todo = (state = initialState, action) => {
 };
 
 export default todo;
-dadadadasdasdas

@@ -29,7 +29,7 @@ function App(props) {
         <button onClick={addTask}>Add Task</button>
 <ul>
     {
-        props.todo.map(el => <li key={el.title}>{el.title}
+        props.todo.map(el => <li key={el.id}>{el.title}
             {el.done ? <span>{ok}</span> : <span>{no}</span>}
         <button onClick={() => props.deleteTask(el.id)}>Delete</button>
             <button onClick={() => props.doneTask(el.id)}>Done</button>
